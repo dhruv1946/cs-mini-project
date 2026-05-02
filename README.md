@@ -1,6 +1,6 @@
 <h1 align="center">The Fading Signal</h1>
 
-![Game Screenshot](https://i.imgur.com/bVKEoUL.png)
+![Game Screenshot](Screenshot%202026-05-03%20001521.png)
 
 **The Fading Signal** is a retro FPS horror game inspired by the graphics and gameplay of the PS1 era. Developed using the Unity Game Engine, this game immerses players in a chilling, atmospheric adventure filled with puzzles, intense exploration, and terrifying encounters.
 
